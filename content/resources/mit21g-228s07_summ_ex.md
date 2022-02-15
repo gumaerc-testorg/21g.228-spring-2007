@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding reaction sentences.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/b668bd835e63e458d72d0a6b8c8618ba_MIT21G.228S07_summ_ex.pdf
+file: /media/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/b668bd835e63e458d72d0a6b8c8618ba_MIT21G.228S07_summ_ex.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Reaction sentences
 uid: b668bd83-5e63-e458-d72d-0a6b8c8618ba
