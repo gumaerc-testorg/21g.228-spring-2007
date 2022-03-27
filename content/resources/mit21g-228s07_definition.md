@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31786a31-63b9-8b83-b25c-e09924620969
 resourcetype: Document
 title: Defining a concept guidelines
 uid: 3fd6f642-2048-a855-5fa8-8f9fe6ba7b78

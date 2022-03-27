@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: 'Practice: Subordination and Coordination'
 uid: aa015bcf-1e62-317a-6ae0-9137c5e1d28d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: What should you cite
 uid: d67f0546-64cc-c9a6-ac2e-5dc02f474a0b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31786a31-63b9-8b83-b25c-e09924620969
 resourcetype: Document
 title: Resume and Cover Letter Assignment
 uid: 9fc7f065-6cb9-f890-afa8-d54dc03930e6

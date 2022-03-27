@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: Preposition + verb
 uid: c2021347-96a9-a547-e442-5d9e214b7c5d

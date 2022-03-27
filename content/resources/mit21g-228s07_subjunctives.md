@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: Subjunctives
 uid: 75c37681-5b4b-c547-ead8-9640b2d4f77a

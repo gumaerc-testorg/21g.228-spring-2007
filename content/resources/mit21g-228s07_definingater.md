@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: 'Defining A Term: In-class work'
 uid: 127e3daa-b7e7-28e7-f2d4-a4cc57333d7c

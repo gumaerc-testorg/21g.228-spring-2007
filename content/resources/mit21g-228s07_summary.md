@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31786a31-63b9-8b83-b25c-e09924620969
 resourcetype: Document
 title: Summary and Critique Assignment
 uid: d21721b6-3e54-5421-fa68-f5e14d0dc7a9

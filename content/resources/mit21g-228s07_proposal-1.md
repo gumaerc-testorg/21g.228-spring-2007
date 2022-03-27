@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31786a31-63b9-8b83-b25c-e09924620969
 resourcetype: Document
 title: Proposal Memo Assignment
 uid: c34d8d66-fdaf-b0f6-4aa1-e0a25d6a44f7

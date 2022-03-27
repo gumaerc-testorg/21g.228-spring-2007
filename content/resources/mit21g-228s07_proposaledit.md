@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31786a31-63b9-8b83-b25c-e09924620969
 resourcetype: Document
 title: Peer edit - Proposal memo
 uid: 98d3da49-5e93-e198-fbeb-e5bdc4bb8045

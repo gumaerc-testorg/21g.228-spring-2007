@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: INTRODUCTION TO A RESEARCH PAPER
 uid: bc49d6bd-6a01-2983-d7de-b975c19d66bc

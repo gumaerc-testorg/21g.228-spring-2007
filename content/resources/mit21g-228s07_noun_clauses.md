@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: Avoiding direct questions/using noun clauses
 uid: 75a52ffe-5c3c-d8f7-ec8b-ad4d241d8105

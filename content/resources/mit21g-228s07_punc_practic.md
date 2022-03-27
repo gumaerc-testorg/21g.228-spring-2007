@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 resourcetype: Document
 title: "Punctuation Practice \u2013 in-class"
 uid: 7cadd4f7-8c42-799b-5087-d8d2711d9113

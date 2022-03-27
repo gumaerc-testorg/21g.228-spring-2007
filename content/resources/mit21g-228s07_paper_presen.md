@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31786a31-63b9-8b83-b25c-e09924620969
 resourcetype: Document
 title: 227/228 Paper to Presentation
 uid: 94ec783a-23cd-1299-7b3a-7ef6c46d3b7e
