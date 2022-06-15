@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section features a list of activities and daily topics for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -8,7 +9,7 @@ uid: 4f9116ae-cbec-bf01-9c93-e6e68d9a520c
 
 This section features a list of activities and daily topics for the course.
 
-Instructions for the writing assignments and presentation can be found in [assignments]({{< baseurl >}}/pages/assignments).
+Instructions for the writing assignments and presentation can be found in {{% resource_link 31786a31-63b9-8b83-b25c-e09924620969 "assignments" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -81,7 +82,7 @@ Homework: Write Extended Definition
 
 Punctuation workshop
 
-Homework: Read about resumes and cover letters (please see the "Resumes and Cover Letters" section in [lecture notes]({{< baseurl >}}/pages/lecture-notes)).
+Homework: Read about resumes and cover letters (please see the "Resumes and Cover Letters" section in {{% resource_link 04f30f6b-0a67-9419-f17b-9d7a4b29299f "lecture notes" %}}).
 
 
 {{< tdclose >}}
@@ -101,7 +102,7 @@ Resumes and cover letters: cultural differences
 
 Strategies for cover letters
 
-Homework: Pick up Career Development Workbook (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf)) in the Career Center. Find a job description/internship position for which you can apply online or in print - bring 2 copies to class.
+Homework: Pick up Career Development Workbook ([PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf)) in the Career Center. Find a job description/internship position for which you can apply online or in print - bring 2 copies to class.
 
 
 {{< tdclose >}}
@@ -224,7 +225,7 @@ Homework: Write Summary and Critique Paper
 
 Introduction to Proposals.
 
-Homework: Read about proposals (please see the "Writing a Proposal" section in [lecture notes]({{< baseurl >}}/pages/lecture-notes))
+Homework: Read about proposals (please see the "Writing a Proposal" section in {{% resource_link 04f30f6b-0a67-9419-f17b-9d7a4b29299f "lecture notes" %}})
 
 
 {{< tdclose >}}
@@ -288,7 +289,7 @@ Abstracts and Introductions: 3-move strategy again
 
 Workshop: Issues from Proposals.
 
-Homework: Read about abstracts and introductions (please see "Abstracts and Introductions" section in [lecture notes]({{< baseurl >}}/pages/lecture-notes)).
+Homework: Read about abstracts and introductions (please see "Abstracts and Introductions" section in {{% resource_link 04f30f6b-0a67-9419-f17b-9d7a4b29299f "lecture notes" %}}).
 
 
 {{< tdclose >}}
@@ -336,7 +337,7 @@ Abstracts and Introductions due in class (3 copies)
 
 Constructing an Outline
 
-Homework: Read about articles (see articles in the "Clarity, Grammar, Punctuation" section in [lecture notes]({{< baseurl >}}/pages/lecture-notes))
+Homework: Read about articles (see articles in the "Clarity, Grammar, Punctuation" section in {{% resource_link 04f30f6b-0a67-9419-f17b-9d7a4b29299f "lecture notes" %}})
 
 
 {{< tdclose >}}
