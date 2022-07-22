@@ -6,6 +6,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Parallel Structure: Student Sentences'
 uid: 67356374-30bb-42e8-d6dd-48dc34b65e66
 ---
 This file contains information regarding parallel structure: Student sentences.
-

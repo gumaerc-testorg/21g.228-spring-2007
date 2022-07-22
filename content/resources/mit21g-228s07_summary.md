@@ -5,6 +5,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Summary and Critique Assignment
 uid: d21721b6-3e54-5421-fa68-f5e14d0dc7a9
 ---
 This file contains information regarding summary and critique assignment.
-

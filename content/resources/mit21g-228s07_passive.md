@@ -5,6 +5,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Passive - correct use
 uid: 82f1d601-179e-f898-79ea-dc55c0d2d67f
 ---
 This file contains information regarding passive - correct use.
-

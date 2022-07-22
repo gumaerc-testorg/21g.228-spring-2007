@@ -5,6 +5,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: AUDIENCE
 uid: 0cfd9c8c-4b99-d2ea-fe8c-f15d7faa8d5d
 ---
 This file contains information regarding audience.
-

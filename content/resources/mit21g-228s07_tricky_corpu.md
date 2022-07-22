@@ -5,6 +5,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Tricky Connectors: a corpus'
 uid: 23adc66d-7f79-ad0c-ecd6-076c706a8d37
 ---
 This file contains information regarding tricky Connectors: a corpus.
-

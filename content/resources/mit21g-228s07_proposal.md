@@ -5,6 +5,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Writing a Proposal: Part I'
 uid: 6661e5b6-48e5-083e-312f-fbf48c688cc7
 ---
 This file contains information regarding writing a proposal: Part I.
-

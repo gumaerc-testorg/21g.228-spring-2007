@@ -6,6 +6,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Avoiding direct questions/using noun clauses
 uid: 75a52ffe-5c3c-d8f7-ec8b-ad4d241d8105
 ---
 This file contains information regarding avoiding direct questions/using noun clauses.
-

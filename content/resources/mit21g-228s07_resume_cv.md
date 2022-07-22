@@ -5,6 +5,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Resume and Cover Letter Assignment
 uid: 9fc7f065-6cb9-f890-afa8-d54dc03930e6
 ---
 This file contains information regarding resume and cover letter assignment.
-

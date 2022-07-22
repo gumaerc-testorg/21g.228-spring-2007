@@ -5,6 +5,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Defining a Term: Sentence Definitions'
 uid: 392726e7-6105-e978-cc98-02dd6c147cd1
 ---
 This file contains information regarding defining a term: Sentence definitions.
-

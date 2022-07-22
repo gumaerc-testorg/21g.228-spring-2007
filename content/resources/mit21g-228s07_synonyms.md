@@ -6,6 +6,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Paraphrase and Summary: Finding Synonyms'
 uid: c9375b84-ae88-c512-1b1d-f23ab70204a9
 ---
 This file contains information regarding paraphrase and summary: Finding synonyms.
-

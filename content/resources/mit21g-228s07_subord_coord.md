@@ -6,6 +6,7 @@ file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-arch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Practice: Subordination and Coordination'
 uid: aa015bcf-1e62-317a-6ae0-9137c5e1d28d
 ---
 This file contains information regarding practice: Subordination and coordination.
-
