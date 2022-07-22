@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section brings information about Topics and related notes for the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 04f30f6b-0a67-9419-f17b-9d7a4b29299f
 ---
@@ -30,7 +35,7 @@ NOTES OR CITATIONS
 Correction Symbols
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_corrections))
+({{% resource_link 924d9aed-3d0a-e677-5e3a-5146c4d46102 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +44,7 @@ Correction Symbols
 Academic Language/Word Choice
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_acad_languag))
+({{% resource_link 0cfd9c8c-4b99-d2ea-fe8c-f15d7faa8d5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +53,7 @@ Academic Language/Word Choice
 Guidelines for Written Papers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_guidelines))
+({{% resource_link e3beebb6-d580-7c36-6132-028b9ffd2f38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +62,7 @@ Guidelines for Written Papers
 Defining a Term: Sentence Definitions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_sent_def))
+({{% resource_link 392726e7-6105-e978-cc98-02dd6c147cd1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Defining a Term: Sentence Definitions
 Adjective Clauses: Grammar
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_adj_grammar))
+({{% resource_link 6e78dc87-d1ef-6ffb-9800-0de5cc7413bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +80,7 @@ Adjective Clauses: Grammar
 Defining a Term: In-class Work
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_definingater))
+({{% resource_link 127e3daa-b7e7-28e7-f2d4-a4cc57333d7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +113,7 @@ Kilmet, Stephen. "Cover Letter," and "Enclosures and Attachments." In _Writing f
 Cover Letters: Useful Language
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_cover_letter))
+({{% resource_link b741b400-4110-3039-6ed2-07ad6c3dc9da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +128,7 @@ Cover Letters: Useful Language
 Paraphrase and Summary: Finding Synonyms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/mit21g-228s07_synonyms)) ([PDF 2]({{< baseurl >}}/resources/mit21g-228s07_comparing))
+({{% resource_link c9375b84-ae88-c512-1b1d-f23ab70204a9 "PDF 1" %}}) ({{% resource_link 02b513b1-c37b-616b-ee61-bf02a69443f3 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Paraphrase and Summary: Finding Synonyms
 Strategies for Paraphrase
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_strategies))
+({{% resource_link 69c0e85f-7ec8-ba20-4b34-e0c9b022e39a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +146,7 @@ Strategies for Paraphrase
 Summary: Language Focus
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_lang_focus))
+({{% resource_link bd85bbb9-0c5f-60fe-650b-ea250c06ccf3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Summary: Language Focus
 Summary/Reaction Sentences
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_summ_react))
+({{% resource_link d268fe23-4aaa-8ea4-dab0-9e19060c9fe8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +164,7 @@ Summary/Reaction Sentences
 Task: Using Summary Words
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_summ_ex))
+({{% resource_link b668bd83-5e63-e458-d72d-0a6b8c8618ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +197,7 @@ Standard Proposal Model
 Writing a Proposal
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_proposal))
+({{% resource_link 6661e5b6-48e5-083e-312f-fbf48c688cc7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +254,7 @@ Cuba, Lee J. "The Introduction." In _A Short Guide to Writing About Social Scien
 Introduction "Moves" Chart
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_research_tab))
+({{% resource_link bc49d6bd-6a01-2983-d7de-b975c19d66bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +269,7 @@ Introduction "Moves" Chart
 Punctuation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_punctuation))
+({{% resource_link 243f1c12-1874-3e28-ebf8-cc07a7f4824a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +278,7 @@ Punctuation
 Punctuation Practice
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_punc_practic))
+({{% resource_link 7cadd4f7-8c42-799b-5087-d8d2711d9113 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +287,7 @@ Punctuation Practice
 Sentence Types: Coordination and Subordination
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_sent_types))
+({{% resource_link 8d23f546-4996-e35d-0062-f09cf3113397 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +296,7 @@ Sentence Types: Coordination and Subordination
 Practice: Subordination/Coordination
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_subord_coord))
+({{% resource_link aa015bcf-1e62-317a-6ae0-9137c5e1d28d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +305,7 @@ Practice: Subordination/Coordination
 Common Transitions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_transitions))
+({{% resource_link f6799d0f-91c8-63db-6609-367385a4439c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +314,7 @@ Common Transitions
 Tricky Connectors: A Corpus
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_tricky_corpu))
+({{% resource_link 23adc66d-7f79-ad0c-ecd6-076c706a8d37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +323,7 @@ Tricky Connectors: A Corpus
 Forming Relative (Adjective) Clauses
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_adj_clauses))
+({{% resource_link eb482efa-d6df-6eb3-daa9-9cd0075af1a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -327,7 +332,7 @@ Forming Relative (Adjective) Clauses
 Sentence Combining (Rammed Earth)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_sent_combine))
+({{% resource_link 7b046ad8-68c6-8104-7b04-679a3637906d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -372,7 +377,7 @@ Swales, John M., and Christine A. Beer Feak. "Language Focus: to + VERB + -ing P
 Preposition + Verb Exercise
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_prep_verb))
+({{% resource_link c2021347-96a9-a547-e442-5d9e214b7c5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -381,7 +386,7 @@ Preposition + Verb Exercise
 Subjunctives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_subjunctives))
+({{% resource_link 75c37681-5b4b-c547-ead8-9640b2d4f77a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -390,7 +395,7 @@ Subjunctives
 Parallel Structure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_parallel_str))
+({{% resource_link 67356374-30bb-42e8-d6dd-48dc34b65e66 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,7 +404,7 @@ Parallel Structure
 Clarity and Conciseness
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/mit21g-228s07_guideclarity))
+({{% resource_link febe14ec-5ccf-e080-0f08-168ff50902cd "PDF 1" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -408,7 +413,7 @@ Clarity and Conciseness
 Avoiding Direct Questions/Using Noun Clauses
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_noun_clauses))
+({{% resource_link 75a52ffe-5c3c-d8f7-ec8b-ad4d241d8105 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -417,7 +422,7 @@ Avoiding Direct Questions/Using Noun Clauses
 Appropriate Use of the Passive
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_passive))
+({{% resource_link 82f1d601-179e-f898-79ea-dc55c0d2d67f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -426,7 +431,7 @@ Appropriate Use of the Passive
 Misplaced/Dangling Modifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_modifiers))
+({{% resource_link 86ae4ade-209f-8d30-67cd-ca9b2e9d9b7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -435,7 +440,7 @@ Misplaced/Dangling Modifiers
 Sentence Variety: Appositives and Modifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_sent_variety))
+({{% resource_link 328be4a3-ce12-c8db-e9a2-8db6a9092695 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -444,7 +449,7 @@ Sentence Variety: Appositives and Modifiers
 Inversions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_inversions))
+({{% resource_link f520a84d-ad04-017e-072e-d0d393248eae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -462,7 +467,7 @@ Swales, John M., and Christine B. Feak. "Appendix One: Articles in Academic Writ
 Articles (Tasks)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/mit21g-228s07_articles_comp)) ([PDF 2]({{< baseurl >}}/resources/mit21g-228s07_articles_par))
+({{% resource_link 65f5a009-18d5-a30d-b267-3e921ff29d77 "PDF 1" %}}) ({{% resource_link a87af052-1dfd-81ee-bf14-8d23cd254bc3 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -486,7 +491,7 @@ Citing Sources Formats
 Citing Documents from the Web
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_citing_web))
+({{% resource_link 392f1ccf-2ca7-f69b-0787-5d67ca8b7f50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -495,7 +500,7 @@ Citing Documents from the Web
 What Should I Cite?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g-228s07_cite))
+({{% resource_link d67f0546-64cc-c9a6-ac2e-5dc02f474a0b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

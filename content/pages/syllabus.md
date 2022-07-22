@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information about Required Texts, Recommended Texts,
+  Description, Attendance, Grades and Procedures for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: acd99551-9519-9f8f-6a38-e4e7f780929f
 ---
@@ -13,7 +17,7 @@ Required Texts
 --------------
 
 *   Raimes, Anne. _Pocket Keys for Writers_. 2nd ed. Boston, MA: Houghton Mifflin, 2006. ISBN: 0618445463.
-*   Course Packet for 21G.227/228 - available in [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+*   Course Packet for 21G.227/228 - available in {{% resource_link 04f30f6b-0a67-9419-f17b-9d7a4b29299f "lecture notes" %}}.
 *   A paper portfolio in which to keep all the work you hand in for a grade.
 *   Handouts from class.
 
