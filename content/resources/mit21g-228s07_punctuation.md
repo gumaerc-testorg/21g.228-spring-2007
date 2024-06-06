@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding punctuation: Commons (,).'
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/243f1c1218743e28ebf8cc07a7f4824a_MIT21G.228S07_punctuation.pdf
+file_size: 687176
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

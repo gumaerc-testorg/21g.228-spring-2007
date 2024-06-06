@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding summary: Language focus.'
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/bd85bbb90c5f60fe650bea250c06ccf3_MIT21G.228S07_lang_focus.pdf
+file_size: 155654
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
