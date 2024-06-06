@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding summary and critique assignment.
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/d21721b63e545421fa68f5e14d0dc7a9_MIT21G.228S07_summary.pdf
+file_size: 117035
 file_type: application/pdf
 learning_resource_types:
 - Assignments
