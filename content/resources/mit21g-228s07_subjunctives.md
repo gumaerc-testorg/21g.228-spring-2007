@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding subjunctives.
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/75c376815b4bc547ead89640b2d4f77a_MIT21G.228S07_subjunctives.pdf
+file_size: 101609
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
