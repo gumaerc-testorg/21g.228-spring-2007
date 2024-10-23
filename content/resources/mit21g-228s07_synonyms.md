@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding paraphrase and summary: Finding
   synonyms.'
-file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/c9375b84ae88c5121b1df23ab70204a9_MIT21G.228S07_synonyms.pdf
+file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/c9375b84ae88c5121b1df23ab70204a9_MIT21G.228S07_synonyms.pdf
 file_size: 187886
 file_type: application/pdf
 learning_resource_types:
