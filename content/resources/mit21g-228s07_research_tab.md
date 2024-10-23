@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding "INTRODUCTION TO A RESEARCH
   PAPER".
-file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/bc49d6bd6a012983d7deb975c19d66bc_MIT21G.228S07_research_tab.pdf
+file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/bc49d6bd6a012983d7deb975c19d66bc_MIT21G.228S07_research_tab.pdf
 file_size: 199451
 file_type: application/pdf
 learning_resource_types:
