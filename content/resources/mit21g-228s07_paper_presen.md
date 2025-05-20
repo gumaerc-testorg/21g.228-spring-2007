@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding paper to presentation.
-file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/94ec783a23cd12997b3a7ef6c46d3b7e_MIT21G.228S07_paper_presen.pdf
+file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/94ec783a23cd12997b3a7ef6c46d3b7e_MIT21G.228S07_paper_presen.pdf
 file_size: 115918
 file_type: application/pdf
 learning_resource_types:
