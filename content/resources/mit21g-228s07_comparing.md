@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding comparing paraphrase and summary.
-file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/02b513b1c37b616bee61bf02a69443f3_MIT21G.228S07_comparing.pdf
+file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/02b513b1c37b616bee61bf02a69443f3_MIT21G.228S07_comparing.pdf
 file_size: 110682
 file_type: application/pdf
 learning_resource_types:
