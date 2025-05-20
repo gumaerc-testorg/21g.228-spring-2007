@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding parallel structure: Student
   sentences.'
-file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/6735637430bb42e8d6dd48dc34b65e66_MIT21G.228S07_parallel_str.pdf
+file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/6735637430bb42e8d6dd48dc34b65e66_MIT21G.228S07_parallel_str.pdf
 file_size: 150416
 file_type: application/pdf
 learning_resource_types:

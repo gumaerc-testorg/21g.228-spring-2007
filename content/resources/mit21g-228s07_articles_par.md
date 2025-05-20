@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding articles.
-file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/a87af0521dfd81eebf148d23cd254bc3_MIT21G.228S07_articles_par.pdf
+file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/a87af0521dfd81eebf148d23cd254bc3_MIT21G.228S07_articles_par.pdf
 file_size: 172507
 file_type: application/pdf
 learning_resource_types:
