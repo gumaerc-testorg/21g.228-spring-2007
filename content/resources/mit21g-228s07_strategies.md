@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding strategies for paraphrase.
-file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/69c0e85f7ec8ba204b34e0c9b022e39a_MIT21G.228S07_strategies.pdf
+file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/69c0e85f7ec8ba204b34e0c9b022e39a_MIT21G.228S07_strategies.pdf
 file_size: 147169
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding passive - correct use.
-file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/82f1d601179ef89879eadc55c0d2d67f_MIT21G.228S07_passive.pdf
+file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/82f1d601179ef89879eadc55c0d2d67f_MIT21G.228S07_passive.pdf
 file_size: 566721
 file_type: application/pdf
 learning_resource_types:

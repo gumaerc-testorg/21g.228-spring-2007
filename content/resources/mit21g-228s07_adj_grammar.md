@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding adjective clauses: Grammar.'
-file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/6e78dc87d1ef6ffb98000de5cc7413bd_MIT21G.228S07_adj_grammar.pdf
+file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/6e78dc87d1ef6ffb98000de5cc7413bd_MIT21G.228S07_adj_grammar.pdf
 file_size: 651503
 file_type: application/pdf
 learning_resource_types:
