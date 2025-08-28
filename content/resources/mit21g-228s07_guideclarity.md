@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding guidelines - clarity and concis.
-file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/febe14ec5ccfe0800f08168ff50902cd_MIT21G.228S07_guideClarity.pdf
+file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/febe14ec5ccfe0800f08168ff50902cd_MIT21G.228S07_guideClarity.pdf
 file_size: 188749
 file_type: application/pdf
 learning_resource_types:

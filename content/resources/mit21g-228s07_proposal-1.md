@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding proposal memo assignment.
-file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/c34d8d66fdafb0f64aa1e0a25d6a44f7_MIT21G.228S07_proposal.pdf
+file: /ol-ocw-studio-app/courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/c34d8d66fdafb0f64aa1e0a25d6a44f7_MIT21G.228S07_proposal.pdf
 file_size: 629601
 file_type: application/pdf
 learning_resource_types:
